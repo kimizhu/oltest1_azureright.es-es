@@ -14,16 +14,20 @@
       {
         "files": [
           "**/*.png",
-          "**/*.jpg"
+          "**/*.jpg",
+          "**/*.gif",
+          "**/*.bmp",
+          "**/*.PNG",
+          "**/*.JPG",
+          "**/*.GIF",
+          "**/*.BMP"
         ],
         "exclude": [
           "**/obj/**"
         ]
       }
     ],
-    "template": [
-      "op.html"
-    ],
+    "template": "op.html",
     "dest": "oltest1_azureright/v1"
   }
 }
