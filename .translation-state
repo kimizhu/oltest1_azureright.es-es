@@ -8,6 +8,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\aad_rightsmanagement_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\aad_rightsmanagement_1.md"
       ],
@@ -36,6 +37,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\aad_rightsmanagement_1_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\aad_rightsmanagement_1_md.md"
       ],
@@ -64,6 +66,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\aad_rightsmanagement_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\aad_rightsmanagement_2.md"
       ],
@@ -92,6 +95,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\aad_rightsmanagement_2_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\aad_rightsmanagement_2_md.md"
       ],
@@ -120,6 +124,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\firstref_client_7.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\firstref_client_7.md"
       ],
@@ -148,6 +153,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\firstref_client_7_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\firstref_client_7_md.md"
       ],
@@ -176,6 +182,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\firstref_longhorn.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\firstref_longhorn.md"
       ],
@@ -204,6 +211,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\firstref_longhorn_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\firstref_longhorn_md.md"
       ],
@@ -232,6 +240,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\firstref_server_7.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\firstref_server_7.md"
       ],
@@ -260,6 +269,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\firstref_server_7_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\firstref_server_7_md.md"
       ],
@@ -288,6 +298,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\firstref_vista.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\firstref_vista.md"
       ],
@@ -316,6 +327,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\firstref_vista_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\firstref_vista_md.md"
       ],
@@ -344,6 +356,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\nextref_server_7.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\nextref_server_7.md"
       ],
@@ -372,6 +385,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\nextref_server_7_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\nextref_server_7_md.md"
       ],
@@ -400,6 +414,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\o365_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\o365_1.md"
       ],
@@ -428,6 +443,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\o365_1_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\o365_1_md.md"
       ],
@@ -456,6 +472,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\o365_2.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\o365_2.md"
       ],
@@ -484,6 +501,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\o365_2_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\o365_2_md.md"
       ],
@@ -512,6 +530,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\win8_client_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\win8_client_1.md"
       ],
@@ -540,6 +559,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\win8_client_1_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\win8_client_1_md.md"
       ],
@@ -568,6 +588,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\win8_server_1.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\win8_server_1.md"
       ],
@@ -596,6 +617,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Token\\win8_server_1_md.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Token\\win8_server_1_md.md"
       ],
@@ -626,6 +648,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__A_SharePoint_protected_document.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardSPO_3.png"
       ],
@@ -656,6 +679,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardSPO_small3.png"
       ],
@@ -684,6 +708,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Activating_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Activating_Azure_Rights_Management.md"
       ],
@@ -712,6 +737,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Active_Directory_Rights_Management_Services_Mobile_Device_Extension.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Active_Directory_Rights_Management_Services_Mobile_Device_Extension.md"
       ],
@@ -740,6 +766,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Administering_Azure_Rights_Management_by_Using_Windows_PowerShell.md"
       ],
@@ -768,6 +795,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Azure_Rights_Management.md"
       ],
@@ -796,6 +824,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Azure_Rights_Management_Deployment_Roadmap.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Azure_Rights_Management_Deployment_Roadmap.md"
       ],
@@ -824,6 +853,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Comparing_Azure_Rights_Management_and_AD_RMS.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Comparing_Azure_Rights_Management_and_AD_RMS.md"
       ],
@@ -852,6 +882,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Configuring_Applications_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Configuring_Applications_for_Azure_Rights_Management.md"
       ],
@@ -880,6 +911,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Configuring_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Configuring_Azure_Rights_Management.md"
       ],
@@ -908,6 +940,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Configuring_Custom_Templates_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Configuring_Custom_Templates_for_Azure_Rights_Management.md"
       ],
@@ -936,6 +969,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Configuring_Super_Users_for_Azure_Rights_Management_and_Discovery_Services_or_Data_Recovery.md"
       ],
@@ -964,6 +998,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Configuring_Usage_Rights_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Configuring_Usage_Rights_for_Azure_Rights_Management.md"
       ],
@@ -992,6 +1027,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Decommissioning_and_Deactivating_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Decommissioning_and_Deactivating_Azure_Rights_Management.md"
       ],
@@ -1020,6 +1056,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Deploying_the_Azure_Rights_Management_Connector.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Deploying_the_Azure_Rights_Management_Connector.md"
       ],
@@ -1048,6 +1085,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Dialog_box_options_for_the_Rights_Management_sharing_application.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Dialog_box_options_for_the_Rights_Management_sharing_application.md"
       ],
@@ -1076,6 +1114,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Download_and_install_the_Rights_Management_sharing_application.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Download_and_install_the_Rights_Management_sharing_application.md"
       ],
@@ -1104,6 +1143,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\End_User_License_Agreement_for_Microsoft_RMS_sharing_application.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\End_User_License_Agreement_for_Microsoft_RMS_sharing_application.md"
       ],
@@ -1132,6 +1172,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Frequently_Asked_Questions_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Frequently_Asked_Questions_for_Azure_Rights_Management.md"
       ],
@@ -1160,6 +1201,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__A_SharePoint_protected_document.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__A_SharePoint_protected_document.md"
       ],
@@ -1188,6 +1230,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Activating_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Activating_Rights_Management.md"
       ],
@@ -1216,6 +1259,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Alice_gets_email_notification.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Alice_gets_email_notification.md"
       ],
@@ -1244,6 +1288,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Alice_shares_protected_attachment.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Alice_shares_protected_attachment.md"
       ],
@@ -1272,6 +1317,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md"
       ],
@@ -1300,6 +1346,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__An_unprotected_email__internal_.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__An_unprotected_email__internal_.md"
       ],
@@ -1328,6 +1375,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Available_settings_for_RMS_templates.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Available_settings_for_RMS_templates.md"
       ],
@@ -1356,6 +1404,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md"
       ],
@@ -1384,6 +1433,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Bob_sees_the_email_on_his_iPad.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Bob_sees_the_email_on_his_iPad.md"
       ],
@@ -1412,6 +1462,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md"
       ],
@@ -1440,6 +1491,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Configuring_DLP_for_Azure_RMS.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Configuring_DLP_for_Azure_RMS.md"
       ],
@@ -1468,6 +1520,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md"
       ],
@@ -1496,6 +1549,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Enabling_IRM_for_a_library.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Enabling_IRM_for_a_library.md"
       ],
@@ -1524,6 +1578,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md"
       ],
@@ -1552,6 +1607,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md"
       ],
@@ -1580,6 +1636,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md"
       ],
@@ -1608,6 +1665,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md"
       ],
@@ -1636,6 +1694,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Getting_Started_with_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Getting_Started_with_Azure_Rights_Management.md"
       ],
@@ -1664,6 +1723,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Helping_Users_to_Protect_Files_by_Using_Azure_Rights_Management.md"
       ],
@@ -1692,6 +1752,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\How_Applications_Support_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\How_Applications_Support_Azure_Rights_Management.md"
       ],
@@ -1720,6 +1781,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md"
       ],
@@ -1748,6 +1810,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Information_and_Support_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Information_and_Support_for_Azure_Rights_Management.md"
       ],
@@ -1776,6 +1839,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Installing_Windows_PowerShell_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Installing_Windows_PowerShell_for_Azure_Rights_Management.md"
       ],
@@ -1804,6 +1868,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Logging_and_Analyzing_Azure_Rights_Management_Usage.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Logging_and_Analyzing_Azure_Rights_Management_Usage.md"
       ],
@@ -1832,6 +1897,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Microsoft_Rights_Management_sharing_application_user_guide_-_original_publication.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Microsoft_Rights_Management_sharing_application_user_guide_-_original_publication.md"
       ],
@@ -1860,6 +1926,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Migrating_from_AD_RMS_to_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Migrating_from_AD_RMS_to_Azure_Rights_Management.md"
       ],
@@ -1888,6 +1955,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Operations_for_Your_Azure_Rights_Management_Tenant_Key.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Operations_for_Your_Azure_Rights_Management_Tenant_Key.md"
       ],
@@ -1916,6 +1984,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md"
       ],
@@ -1944,6 +2013,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Preparing_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Preparing_for_Azure_Rights_Management.md"
       ],
@@ -1972,6 +2042,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Privacy_Statement_for_Microsoft_Rights_Management_in_RMS-Enlightened_Applications.md"
       ],
@@ -2000,6 +2071,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md"
       ],
@@ -2028,6 +2100,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md"
       ],
@@ -2056,6 +2129,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
@@ -2084,6 +2158,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Rapid_Deployment_Guide_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Rapid_Deployment_Guide_for_Azure_Rights_Management.md"
       ],
@@ -2112,6 +2187,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md"
       ],
@@ -2140,6 +2216,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Requirements_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Requirements_for_Azure_Rights_Management.md"
       ],
@@ -2168,6 +2245,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Requirements_for_Azure_Rights_Management__retired_.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Requirements_for_Azure_Rights_Management__retired_.md"
       ],
@@ -2196,6 +2274,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Revised_Version_2__Rights_Management_sharing_application_user_guide_-_working_version,_sandbox_only.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Revised_Version_2__Rights_Management_sharing_application_user_guide_-_working_version,_sandbox_only.md"
       ],
@@ -2224,6 +2303,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md"
       ],
@@ -2252,6 +2332,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Rights_Management__RMS__Client.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Rights_Management__RMS__Client.md"
       ],
@@ -2280,6 +2361,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_administrator_guide.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_administrator_guide.md"
       ],
@@ -2308,6 +2390,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Rights_Management_Sharing_Application_for_Windows.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Rights_Management_Sharing_Application_for_Windows.md"
       ],
@@ -2336,6 +2419,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide.md"
       ],
@@ -2364,6 +2448,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md"
       ],
@@ -2392,6 +2477,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application__Version_release_history.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application__Version_release_history.md"
       ],
@@ -2420,6 +2506,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\RMS_Client_Deployment_Notes.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\RMS_Client_Deployment_Notes.md"
       ],
@@ -2448,6 +2535,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\RMS_for_Individuals_and_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\RMS_for_Individuals_and_Azure_Rights_Management.md"
       ],
@@ -2476,6 +2564,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\RMS_Protection_with_Windows_Server_File_Classification_Infrastructure__FCI_.md"
       ],
@@ -2504,6 +2593,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Scenario_-_Configure_Work_Folders_for_Persistent_Protection.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Configure_Work_Folders_for_Persistent_Protection.md"
       ],
@@ -2532,6 +2622,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Scenario_-_Executives_Securely_Exchange_Privileged_Information.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Executives_Securely_Exchange_Privileged_Information.md"
       ],
@@ -2560,6 +2651,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Scenario_-_Protect_Files_on_a_File_Server_Share.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Protect_Files_on_a_File_Server_Share.md"
       ],
@@ -2588,6 +2680,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Scenario_-_Retain_Control_of_Documents_Stored_in_SharePoint.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Retain_Control_of_Documents_Stored_in_SharePoint.md"
       ],
@@ -2616,6 +2709,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Scenario_-_Secure_Your_Most__Few__Valuable_Files.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Secure_Your_Most__Few__Valuable_Files.md"
       ],
@@ -2644,6 +2738,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md"
       ],
@@ -2672,6 +2767,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
@@ -2700,6 +2796,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Terminology_for_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Terminology_for_Azure_Rights_Management.md"
       ],
@@ -2728,6 +2825,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md"
       ],
@@ -2756,6 +2854,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md"
       ],
@@ -2784,6 +2883,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Using_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Using_Azure_Rights_Management.md"
       ],
@@ -2812,6 +2912,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Verifying_Azure_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Verifying_Azure_Rights_Management.md"
       ],
@@ -2840,6 +2941,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\View_and_use_files_that_have_been_protected_by_Rights_Management.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\View_and_use_files_that_have_been_protected_by_Rights_Management.md"
       ],
@@ -2868,6 +2970,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Welcome_to_Microsoft_RMS!.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Welcome_to_Microsoft_RMS!.md"
       ],
@@ -2896,6 +2999,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\Welcome_to_Microsoft_RMS!_Test.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\Welcome_to_Microsoft_RMS!_Test.md"
       ],
@@ -2924,6 +3028,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
@@ -2954,6 +3059,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Deploying_the_Azure_Rights_Management_Connector.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\RMS_connector.png"
       ],
@@ -2984,6 +3090,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Deploying_the_Azure_Rights_Management_Connector.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharePointConnector.png"
       ],
@@ -3014,6 +3121,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Activating_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardActivate.png"
       ],
@@ -3044,6 +3152,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Alice_gets_email_notification.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardEmaill4.PNG"
       ],
@@ -3074,6 +3183,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Alice_shares_protected_attachment.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardEmaill1.PNG"
       ],
@@ -3104,6 +3214,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__An_external_email_protected_by_DLP_and_Azure_RMS.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_DLPProtectedEmail.png"
       ],
@@ -3134,6 +3245,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__An_unprotected_email__internal_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_DLPUnprotectedEmail.png"
       ],
@@ -3164,6 +3276,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Available_settings_for_RMS_templates.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_TemplatesSettings.png"
       ],
@@ -3194,6 +3307,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Bob_opens_the_attachment_on_his_iPad.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardEmaill3.PNG"
       ],
@@ -3224,6 +3338,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Bob_sees_the_email_on_his_iPad.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardEmaill2.PNG"
       ],
@@ -3254,6 +3369,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Confidential_report_accidentally_sent_to_wrong_person.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_FCI_Email.png"
       ],
@@ -3284,6 +3400,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Configuring_DLP_for_Azure_RMS.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_DLPExample.png"
       ],
@@ -3314,6 +3431,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Configuring_FCI_for_the_Marketing_classification.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_ExampleFCI_Configuration.png"
       ],
@@ -3344,6 +3462,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Enabling_IRM_for_a_library.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardSPO_2.PNG"
       ],
@@ -3374,6 +3493,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Enabling_IRM_on_SharePoint_Online.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardSPO_1.png"
       ],
@@ -3404,6 +3524,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Installing_and_Configuring_the_RMS_connector_for_FCI.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_FCI_Connector.png"
       ],
@@ -3434,6 +3555,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__RMS_templates_in_the_Azure_Management_Portal.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_TemplatesPortal.png"
       ],
@@ -3464,6 +3586,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Full_screen_picture__Select_RMS_templates_in_applications,_such_as_File_Explorer_and_Word.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_TemplatesPortal_ExplorerWord.png"
       ],
@@ -3501,6 +3624,7 @@
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md",
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\4d269a30-a873-45c5-87de-30ee6558e7b0.gif"
       ],
@@ -3532,6 +3656,7 @@
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md",
         "oltest1_azureright\\v1\\Topic\\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_SP_OutlookToolbar.png"
       ],
@@ -3562,6 +3687,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharedProtected_GenericProtection.PNG"
       ],
@@ -3593,6 +3719,7 @@
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md",
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharedProtected_ViewerOnly.PNG"
       ],
@@ -3623,6 +3750,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharedProtected_CoAuthor.PNG"
       ],
@@ -3653,6 +3781,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharedProtected_HighlyConfidental.PNG"
       ],
@@ -3683,6 +3812,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharedProtected_Confidential.PNG"
       ],
@@ -3713,6 +3843,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharedProtected_Internal.PNG"
       ],
@@ -3744,6 +3875,7 @@
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md",
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharedProtected_InstantRevoke.PNG"
       ],
@@ -3775,6 +3907,7 @@
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md",
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SharedProtected_EmailMe.PNG"
       ],
@@ -3805,6 +3938,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\How_to_safely_share_a_document_by_email.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_ShareProtected_SendNow.PNG"
       ],
@@ -3836,6 +3970,7 @@
         "oltest1_azureright\\v1\\Topic\\Microsoft_Rights_Management_sharing_application_user_guide_-_original_publication.md",
         "oltest1_azureright\\v1\\Topic\\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_ProtectCustom.gif"
       ],
@@ -3867,6 +4002,7 @@
         "oltest1_azureright\\v1\\Topic\\Microsoft_Rights_Management_sharing_application_user_guide_-_original_publication.md",
         "oltest1_azureright\\v1\\Topic\\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_SP_ConsumePfile.gif"
       ],
@@ -3899,6 +4035,7 @@
         "oltest1_azureright\\v1\\Topic\\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md",
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSAPP_SP_ShareProtected.gif"
       ],
@@ -3932,6 +4069,7 @@
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md",
         "oltest1_azureright\\v1\\Topic\\Use_keyboard_shortcuts_in_the_Rights_Management_sharing_application.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_AccessKeys.png"
       ],
@@ -3965,6 +4103,7 @@
         "oltest1_azureright\\v1\\Topic\\Revised_Version_3__Microsoft_Rights_Management_sharing_application_guide.md",
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_SP_OfficeToolbar.png"
       ],
@@ -3995,6 +4134,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\RMS_BYOK_cloud.png"
       ],
@@ -4025,6 +4165,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\RMS_BYOK_onprem.png"
       ],
@@ -4055,6 +4196,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\RMS_BYOK_noExchange.png"
       ],
@@ -4085,6 +4227,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Planning_and_Implementing_Your_Azure_Rights_Management_Tenant_Key.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\RMS_Logging.gif"
       ],
@@ -4116,6 +4259,7 @@
         "oltest1_azureright\\v1\\Topic\\Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md",
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_SP_CompanyDefined.png"
       ],
@@ -4147,6 +4291,7 @@
         "oltest1_azureright\\v1\\Topic\\Protect_a_file_on_a_device__protect_in-place__by_using_the_Rights_Management_sharing_application.md",
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_Pfile.png"
       ],
@@ -4178,6 +4323,7 @@
         "oltest1_azureright\\v1\\Topic\\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md",
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_ShareProtectedMenu.png"
       ],
@@ -4209,6 +4355,7 @@
         "oltest1_azureright\\v1\\Topic\\Protect_a_file_that_you_share_by_email_by_using_the_Rights_Management_sharing_application.md",
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_EmailMessage.PNG"
       ],
@@ -4239,6 +4386,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_QuickStartStepsAll.PNG"
       ],
@@ -4269,6 +4417,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_QuickStartSteps1.PNG"
       ],
@@ -4299,6 +4448,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_Tutorial_1_Screenshots.png"
       ],
@@ -4329,6 +4479,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_QuickStartSteps2.PNG"
       ],
@@ -4359,6 +4510,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_Tutorial_2_Screenshots.png"
       ],
@@ -4389,6 +4541,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_QuickStartSteps3.PNG"
       ],
@@ -4419,6 +4572,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_Tutorial_3_Screenshots.png"
       ],
@@ -4449,6 +4603,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_QuickStartSteps4.PNG"
       ],
@@ -4479,6 +4634,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_Tutorial_4_Screenshots.png"
       ],
@@ -4509,6 +4665,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_QuickStartSteps5.PNG"
       ],
@@ -4540,6 +4697,7 @@
         "oltest1_azureright\\v1\\Topic\\Quick_Start_Tutorial_for_Azure_Rights_Management.md",
         "oltest1_azureright\\v1\\Topic\\Rapid_Deployment_Guide_for_Azure_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_Tutorial_5_Screenshots.png"
       ],
@@ -4576,6 +4734,7 @@
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md",
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_ExampleBanner.png"
       ],
@@ -4607,6 +4766,7 @@
         "oltest1_azureright\\v1\\Topic\\Remove_protection_from_a_file_by_using_the_Rights_Management_sharing_application.md",
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_RemoveProtection.png"
       ],
@@ -4638,6 +4798,7 @@
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md",
         "oltest1_azureright\\v1\\Topic\\View_and_use_files_that_have_been_protected_by_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_PfilePermission.png"
       ],
@@ -4669,6 +4830,7 @@
         "oltest1_azureright\\v1\\Topic\\Rights_Management_sharing_application_user_guide_-_revision_for_single_topic.md",
         "oltest1_azureright\\v1\\Topic\\View_and_use_files_that_have_been_protected_by_Rights_Management.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_RestrictedAccess.png"
       ],
@@ -4705,6 +4867,7 @@
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md",
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_AdminBanner.png"
       ],
@@ -4740,6 +4903,7 @@
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md",
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_UsersBanner.png"
       ],
@@ -4770,6 +4934,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_OutlookTemplate.PNG"
       ],
@@ -4800,6 +4965,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Send_a_Company-Confidential_Email.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_OWATemplate.png"
       ],
@@ -4830,6 +4996,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Scenario_-_Share_an_Office_File_with_Users_in_Another_Organization.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMSUserInstructions_ShareProtectedRibbon2013.png"
       ],
@@ -4858,6 +5025,7 @@
       "SourceFilePath": "oltest1_azureright\\v1\\Topic\\TOC.md",
       "HandoffReason": 1,
       "DependencyFrom": null,
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Topic\\TOC.md"
       ],
@@ -4888,6 +5056,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_OfficeToolbarTrackUsage.png"
       ],
@@ -4918,6 +5087,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_OutlookTrackUsage.png"
       ],
@@ -4948,6 +5118,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_ExplorerTrackUsage.png"
       ],
@@ -4978,6 +5149,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\Track_and_revoke_your_documents_when_you_use_the_RMS_sharing_application.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\ADRMS_MSRMSApp_OutlookMessageTrackUsage.png"
       ],
@@ -5008,6 +5180,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_elements.png"
       ],
@@ -5038,6 +5211,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardActivate_small1.png"
       ],
@@ -5068,6 +5242,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_TemplatesPortal_small.png"
       ],
@@ -5098,6 +5273,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_TemplatesSettings3.png"
       ],
@@ -5128,6 +5304,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_TemplatesPortal_ExplorerWord3.png"
       ],
@@ -5158,6 +5335,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_FCI_ConnectorSmall.png"
       ],
@@ -5188,6 +5366,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_ExampleFCI_ConfigurationSmall.png"
       ],
@@ -5218,6 +5397,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_FCI_EmailSmall.png"
       ],
@@ -5248,6 +5428,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_DLPExample1.png"
       ],
@@ -5278,6 +5459,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_DLPUnprotectedEmail_small.png"
       ],
@@ -5308,6 +5490,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_DLPProtectedEmail_small.png"
       ],
@@ -5338,6 +5521,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardSPO_small1.png"
       ],
@@ -5368,6 +5552,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardSPO_small2.png"
       ],
@@ -5398,6 +5583,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardEmail_small1.png"
       ],
@@ -5428,6 +5614,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardEmail_small2.png"
       ],
@@ -5458,6 +5645,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardEmail_small3.png"
       ],
@@ -5488,6 +5676,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_StoryboardEmail_small4.png"
       ],
@@ -5518,6 +5707,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_SecretColaFormula_final.png"
       ],
@@ -5548,6 +5738,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS.png"
       ],
@@ -5578,6 +5769,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_useractivation2.png"
       ],
@@ -5608,6 +5800,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_documentprotection1.png"
       ],
@@ -5638,6 +5831,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_documentprotection2.png"
       ],
@@ -5668,6 +5862,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_documentprotection3.png"
       ],
@@ -5698,6 +5893,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_documentconsumption1.png"
       ],
@@ -5728,6 +5924,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_documentconsumption2.png"
       ],
@@ -5758,6 +5955,7 @@
       "DependencyFrom": [
         "oltest1_azureright\\v1\\Topic\\What_is_Azure_Rights_Management_.md"
       ],
+      "TokenReference": null,
       "FilePathList": [
         "oltest1_azureright\\v1\\Image\\AzRMS_documentconsumption3.png"
       ],
